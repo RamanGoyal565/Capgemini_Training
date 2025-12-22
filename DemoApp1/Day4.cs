@@ -42,4 +42,26 @@ class Product
     }
 }
 
+class Person
+{
+    public string Name;
 
+    public Person()
+    {
+        Console.WriteLine("Person");
+    }
+    public Person(string name)
+    {
+        Name = name;
+    }
+}
+
+class Student1 : Person
+{
+    public int RollNo;
+
+    public Student1( int roll)
+    {
+        RollNo = roll;
+    }
+}

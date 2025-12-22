@@ -12,3 +12,4 @@ d:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net8.0\refint\DemoApp1.dll
 d:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net8.0\DemoApp1.pdb
 d:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net8.0\DemoApp1.genruntimeconfig.cache
 d:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net8.0\ref\DemoApp1.dll
+D:\Capgemini\HelloWorld\DemoApp1\obj\Debug\net8.0\DemoApp1.sourcelink.json

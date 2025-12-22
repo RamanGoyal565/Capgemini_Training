@@ -104,17 +104,24 @@ class Program
         //     Price = 50000
         // };
 
-        Student stu1=new Student(12216883)
-        {
-            AdmissionYear=2022
-        };
-        stu1.Name="Raman Goyal";
-        stu1.Age=21;
-        stu1.Marks=45;
-        stu1.Password="jubvdbdukv";
-        stu1.StudentID=12039;
-        Console.WriteLine($"Student ID is equal to {stu1.StudentID} result is {stu1.Result}");
-        Console.WriteLine($"Name is {stu1.Name} age is {stu1.Age} marks is {stu1.Marks}");
-        Console.WriteLine($"Registration Number is {stu1.RegistrationNumber} year is {stu1.AdmissionYear} percentage is {stu1.Percentage}");
+        // Student stu1=new Student(12216883)
+        // {
+        //     AdmissionYear=2022
+        // };
+        // stu1.Name="Raman Goyal";
+        // stu1.Age=21;
+        // stu1.Marks=45;
+        // stu1.Password="jubvdbdukv";
+        // stu1.StudentID=12039;
+        // Console.WriteLine($"Student ID is equal to {stu1.StudentID} result is {stu1.Result}");
+        // Console.WriteLine($"Name is {stu1.Name} age is {stu1.Age} marks is {stu1.Marks}");
+        // Console.WriteLine($"Registration Number is {stu1.RegistrationNumber} year is {stu1.AdmissionYear} percentage is {stu1.Percentage}");
+    
+        // Library lib=new Library();
+        // lib[101]="C# Basics";
+        // Console.WriteLine(lib[101]);
+        // Console.WriteLine(lib["C# Basics"]);
+
+        Student1 std=new Student1(12);
     }
 }
