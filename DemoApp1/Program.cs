@@ -122,6 +122,8 @@ class Program
         // Console.WriteLine(lib[101]);
         // Console.WriteLine(lib["C# Basics"]);
 
-        Student1 std=new Student1(12);
+        // Student1 std=new Student1(12);
+    
+        //Book book1=new Book();        
     }
 }
