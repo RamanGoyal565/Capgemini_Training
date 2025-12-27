@@ -124,6 +124,22 @@ class Program
 
         // Student1 std=new Student1(12);
     
-        //Book book1=new Book();        
+        //Book book1=new Book();  
+
+
+        // ArraysPractice obj=new ArraysPractice();
+        // obj.Main();  
+
+        // CollectionPrac obj=new CollectionPrac();
+        // obj.Main();
+
+        FlipLogic obj=new FlipLogic();
+        Console.WriteLine("Enter the word");
+        string? word=Console.ReadLine();
+        string ans=obj.CleanseAndInvert(word);
+        if(!string.IsNullOrEmpty(ans))
+        Console.WriteLine("The generated key is - "+ans);
+        else
+        Console.WriteLine("Invalid Input"); 
     }
 }
